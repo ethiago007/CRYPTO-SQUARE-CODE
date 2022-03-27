@@ -16,7 +16,7 @@ The site encryptes or encodes any sentence the user types in. It does in a squar
 * Returning the encrypted message correctly
 
 ## WEBPAGE LINK
- https://ethiago007.github.io//
+ https://ethiago007.github.io/CRYPTO-SQUARE-CODE/
 ## CONTACT INFORMATION
 * +2349064252791 (calls and WhatsApp)
 * mohammedkamaldeen204@gmail.com
